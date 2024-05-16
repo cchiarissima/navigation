@@ -1,2 +1,4 @@
-# navigation
-Repositories index
+## Navigation
+
+Practicing programming languages:
+- C &nbsp; ➡️ [c-practice](link) 
